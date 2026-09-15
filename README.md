@@ -6,4 +6,7 @@ Mi primer proyecto de IS
 
 Aquí iría el manual de usuario.
 
-$$x = y + z^2$$
+$$
+x = y + z^2 \\
+z = x^y
+$$
